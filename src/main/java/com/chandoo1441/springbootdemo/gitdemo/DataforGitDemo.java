@@ -6,7 +6,7 @@ public class DataforGitDemo {
     }
 
     public static String getName() {
-        String myname = name;
+        String myname = "This a test to check the file in git..";
         return myname;
     }
 }
